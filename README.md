@@ -1,5 +1,8 @@
 # 🤖 Machine Learning Mini Projects Repository
+<!--
 <img width="1536" height="1024" alt="ChatGPT Image Jan 7, 2026, 06_34_27 PM" src="https://github.com/user-attachments/assets/ff886b84-6b6f-406d-b898-636228f226c9" />
+-->
+<img width="1536" height="890" alt="ChatGPT Image Jan 13, 2026, 06_38_01 PM" src="https://github.com/user-attachments/assets/b06e5e14-2beb-4033-93fa-5c3bf8a8a29c" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python" />
