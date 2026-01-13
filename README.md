@@ -98,6 +98,21 @@ This module demonstrates commonly used image preprocessing operations to enhance
 📂 Folder: `Image Preprocessing/`
 
 ---
+### 🍷 Wine Type Prediction
+<img width="1536" height="1024" alt="ChatGPT Image Jan 13, 2026, 08_29_21 PM" src="https://github.com/user-attachments/assets/a4da2d54-fc39-4582-bc71-12baaf7943ac" />
+
+Wine Type Prediction is a supervised machine learning classification problem that focuses on identifying the type of wine based on its chemical properties.
+This project applies machine learning algorithms to analyze physicochemical features of wine samples and accurately classify them into different wine categories.
+
+- **Algorithms:** K-Nearest Neighbors (KNN), Logistic Regression, Support Vector Machine (SVM), Random Forest
+- **Objective:** Classify wines into different classes based on their chemical composition
+- **Techniques:** Data preprocessing, feature scaling, exploratory data analysis (EDA), model training and evaluation
+- **Concepts:** Multiclass classification, feature importance, model comparison, performance evaluation
+
+📂 **Folder:** `Wine-Type-Prediction/`
+
+---
+
 
 ### 🚧 Upcoming Projects
 - 🎬 Movie Recommendation System  
