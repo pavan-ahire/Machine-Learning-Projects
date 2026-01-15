@@ -43,6 +43,19 @@ Prediction & Insights
 ---
 
 ## 🚀 Project Showcase
+## 🩺🧠📊 Diabetes Disease Detection
+<img width="1536" height="1024" alt="ChatGPT Image Jan 15, 2026, 10_23_36 PM" src="https://github.com/user-attachments/assets/5d737e19-915e-4c1b-b895-fea98da8a29d" />
+
+Diabetes Disease Detection is a supervised machine learning classification problem that focuses on predicting whether a person has diabetes based on medical and health-related attributes. This project applies machine learning algorithms to analyze patient data and accurately classify individuals as diabetic or non-diabetic.
+
+- **Algorithms:** Logistic Regression, Decision Tree, K-Nearest Neighbors (KNN), Naive Bayes
+- **Objective:** Predict the presence of diabetes based on medical parameters such as glucose level, BMI, age, and insulin
+- **Techniques:** Data preprocessing, feature scaling, exploratory data analysis (EDA), model training and evaluation
+- **Concepts:** Binary classification, feature correlation analysis, model comparison, performance evaluation
+
+📁 **Folder:** `Diabetes-Disease-Detection-Using-ML/`
+
+---
 
 ### 🍷 Wine Type Prediction
 <img width="1536" height="1024" alt="ChatGPT Image Jan 13, 2026, 08_29_21 PM" src="https://github.com/user-attachments/assets/a4da2d54-fc39-4582-bc71-12baaf7943ac" />
